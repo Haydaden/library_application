@@ -1,5 +1,7 @@
-Hello! This is a RESTful Springboot application with PostgreSQL compatibility that I made to organize my textbook/personal library 
-so I can keep better track of what I've read, when I read it, where it's stored, etc. I intend on adding a simple frontend with React soon
-as well as a potential Wikipedia linking element so that I and other people can go on deep dives into the topic/book they're reading about.
+Hello! This is a RESTful API using SpringBoot, backed by PostgreSQL and Docker, to manage a personal library amassed through college and beyond. 
+My intention is to enable efficient tracking of read and unread texts as well as categorization by genre. I wanted to have an avenue for re-learning 
+historical context for certain texts, so I'm currently expanding the system with technologies like Kafka to enable asynchronous metadata enrichment, 
+incorporating historical background, author information, and thematic summaries, to deepen personal understanding of each text.
 
-Thanks for checking it out! It should be pretty simple to implement if you have some backend knowledge.
+So far, this is a project dedicated to work primarily on the backend, but I will be integrating frontend capabilities with React after adding additional functionality.
+Thanks for checking it out!
